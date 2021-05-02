@@ -1,0 +1,26 @@
+.chatInput {
+    border-radius: 20px;
+  }
+  
+  .chatInput > form {
+    position: relative;
+  }
+
+  .chatInput > form > div > input {
+    width: 100em;
+    margin-left: 1%;
+    height: 60px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    border-width: 3px;
+    border-color: black;
+    background-color: rgb(223, 218, 171);
+  }
+
+button.send {
+    display: none !important;
+  }
+
+
+  
+ 
